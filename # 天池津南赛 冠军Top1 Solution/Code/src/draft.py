@@ -1,0 +1,1 @@
+df_trn['B13'].value_counts()

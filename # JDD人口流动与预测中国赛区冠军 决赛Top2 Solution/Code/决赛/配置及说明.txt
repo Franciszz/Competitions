@@ -1,0 +1,9 @@
+1.配置:
+tensorflow
+pdmarima
+
+
+2.代码文件
+（1）. Python环境下运行主文件main。
+（2）. rnn_为rnn模型，已包装至main主文件中。
+ (3) . arima和规则模型在main文件中已测试可运行，rnn_模型封装后未完全测试。
